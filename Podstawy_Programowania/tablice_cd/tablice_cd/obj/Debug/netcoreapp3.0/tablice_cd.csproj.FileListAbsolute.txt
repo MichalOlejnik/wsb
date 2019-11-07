@@ -1,0 +1,11 @@
+C:\Users\Student\Desktop\tablice_cd\tablice_cd\obj\Debug\netcoreapp3.0\tablice_cd.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\tablice_cd\tablice_cd\obj\Debug\netcoreapp3.0\tablice_cd.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\tablice_cd\tablice_cd\obj\Debug\netcoreapp3.0\tablice_cd.AssemblyInfo.cs
+C:\Users\Student\Desktop\tablice_cd\tablice_cd\bin\Debug\netcoreapp3.0\tablice_cd.exe
+C:\Users\Student\Desktop\tablice_cd\tablice_cd\bin\Debug\netcoreapp3.0\tablice_cd.deps.json
+C:\Users\Student\Desktop\tablice_cd\tablice_cd\bin\Debug\netcoreapp3.0\tablice_cd.runtimeconfig.json
+C:\Users\Student\Desktop\tablice_cd\tablice_cd\bin\Debug\netcoreapp3.0\tablice_cd.runtimeconfig.dev.json
+C:\Users\Student\Desktop\tablice_cd\tablice_cd\bin\Debug\netcoreapp3.0\tablice_cd.dll
+C:\Users\Student\Desktop\tablice_cd\tablice_cd\bin\Debug\netcoreapp3.0\tablice_cd.pdb
+C:\Users\Student\Desktop\tablice_cd\tablice_cd\obj\Debug\netcoreapp3.0\tablice_cd.dll
+C:\Users\Student\Desktop\tablice_cd\tablice_cd\obj\Debug\netcoreapp3.0\tablice_cd.pdb

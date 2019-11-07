@@ -1,0 +1,3 @@
+C:\Users\Student\Desktop\Kalkulator\Kalkulator\Kalkulator\obj\Debug\netcoreapp3.0\Kalkulator.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\Kalkulator\Kalkulator\Kalkulator\obj\Debug\netcoreapp3.0\Kalkulator.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Kalkulator\Kalkulator\Kalkulator\obj\Debug\netcoreapp3.0\Kalkulator.AssemblyInfo.cs
