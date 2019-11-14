@@ -1,0 +1,11 @@
+C:\Users\Student\Desktop\14.11.2019\funkcje1\funkcje1\bin\Debug\netcoreapp3.0\funkcje1.exe
+C:\Users\Student\Desktop\14.11.2019\funkcje1\funkcje1\bin\Debug\netcoreapp3.0\funkcje1.deps.json
+C:\Users\Student\Desktop\14.11.2019\funkcje1\funkcje1\bin\Debug\netcoreapp3.0\funkcje1.runtimeconfig.json
+C:\Users\Student\Desktop\14.11.2019\funkcje1\funkcje1\bin\Debug\netcoreapp3.0\funkcje1.runtimeconfig.dev.json
+C:\Users\Student\Desktop\14.11.2019\funkcje1\funkcje1\bin\Debug\netcoreapp3.0\funkcje1.dll
+C:\Users\Student\Desktop\14.11.2019\funkcje1\funkcje1\bin\Debug\netcoreapp3.0\funkcje1.pdb
+C:\Users\Student\Desktop\14.11.2019\funkcje1\funkcje1\obj\Debug\netcoreapp3.0\funkcje1.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\14.11.2019\funkcje1\funkcje1\obj\Debug\netcoreapp3.0\funkcje1.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\14.11.2019\funkcje1\funkcje1\obj\Debug\netcoreapp3.0\funkcje1.AssemblyInfo.cs
+C:\Users\Student\Desktop\14.11.2019\funkcje1\funkcje1\obj\Debug\netcoreapp3.0\funkcje1.dll
+C:\Users\Student\Desktop\14.11.2019\funkcje1\funkcje1\obj\Debug\netcoreapp3.0\funkcje1.pdb
