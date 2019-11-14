@@ -1,0 +1,11 @@
+C:\Users\Student\Desktop\14.11.2019\Przestrzenie_nazw\Przestrzenie_nazw\obj\Debug\netcoreapp3.0\Przestrzenie_nazw.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\14.11.2019\Przestrzenie_nazw\Przestrzenie_nazw\obj\Debug\netcoreapp3.0\Przestrzenie_nazw.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\14.11.2019\Przestrzenie_nazw\Przestrzenie_nazw\obj\Debug\netcoreapp3.0\Przestrzenie_nazw.AssemblyInfo.cs
+C:\Users\Student\Desktop\14.11.2019\Przestrzenie_nazw\Przestrzenie_nazw\bin\Debug\netcoreapp3.0\Przestrzenie_nazw.exe
+C:\Users\Student\Desktop\14.11.2019\Przestrzenie_nazw\Przestrzenie_nazw\bin\Debug\netcoreapp3.0\Przestrzenie_nazw.deps.json
+C:\Users\Student\Desktop\14.11.2019\Przestrzenie_nazw\Przestrzenie_nazw\bin\Debug\netcoreapp3.0\Przestrzenie_nazw.runtimeconfig.json
+C:\Users\Student\Desktop\14.11.2019\Przestrzenie_nazw\Przestrzenie_nazw\bin\Debug\netcoreapp3.0\Przestrzenie_nazw.runtimeconfig.dev.json
+C:\Users\Student\Desktop\14.11.2019\Przestrzenie_nazw\Przestrzenie_nazw\bin\Debug\netcoreapp3.0\Przestrzenie_nazw.dll
+C:\Users\Student\Desktop\14.11.2019\Przestrzenie_nazw\Przestrzenie_nazw\bin\Debug\netcoreapp3.0\Przestrzenie_nazw.pdb
+C:\Users\Student\Desktop\14.11.2019\Przestrzenie_nazw\Przestrzenie_nazw\obj\Debug\netcoreapp3.0\Przestrzenie_nazw.dll
+C:\Users\Student\Desktop\14.11.2019\Przestrzenie_nazw\Przestrzenie_nazw\obj\Debug\netcoreapp3.0\Przestrzenie_nazw.pdb

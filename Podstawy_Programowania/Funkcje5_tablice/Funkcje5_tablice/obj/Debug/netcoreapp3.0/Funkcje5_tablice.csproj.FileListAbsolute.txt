@@ -1,0 +1,10 @@
+C:\Users\Student\Desktop\14.11.2019\Funkcje5_tablice\Funkcje5_tablice\bin\Debug\netcoreapp3.0\Funkcje5_tablice.exe
+C:\Users\Student\Desktop\14.11.2019\Funkcje5_tablice\Funkcje5_tablice\bin\Debug\netcoreapp3.0\Funkcje5_tablice.deps.json
+C:\Users\Student\Desktop\14.11.2019\Funkcje5_tablice\Funkcje5_tablice\bin\Debug\netcoreapp3.0\Funkcje5_tablice.runtimeconfig.json
+C:\Users\Student\Desktop\14.11.2019\Funkcje5_tablice\Funkcje5_tablice\bin\Debug\netcoreapp3.0\Funkcje5_tablice.runtimeconfig.dev.json
+C:\Users\Student\Desktop\14.11.2019\Funkcje5_tablice\Funkcje5_tablice\bin\Debug\netcoreapp3.0\Funkcje5_tablice.dll
+C:\Users\Student\Desktop\14.11.2019\Funkcje5_tablice\Funkcje5_tablice\bin\Debug\netcoreapp3.0\Funkcje5_tablice.pdb
+C:\Users\Student\Desktop\14.11.2019\Funkcje5_tablice\Funkcje5_tablice\obj\Debug\netcoreapp3.0\Funkcje5_tablice.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\14.11.2019\Funkcje5_tablice\Funkcje5_tablice\obj\Debug\netcoreapp3.0\Funkcje5_tablice.AssemblyInfo.cs
+C:\Users\Student\Desktop\14.11.2019\Funkcje5_tablice\Funkcje5_tablice\obj\Debug\netcoreapp3.0\Funkcje5_tablice.dll
+C:\Users\Student\Desktop\14.11.2019\Funkcje5_tablice\Funkcje5_tablice\obj\Debug\netcoreapp3.0\Funkcje5_tablice.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Przestrzenie_nazw/1.0.0": {
+        "runtime": {
+          "Przestrzenie_nazw.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Przestrzenie_nazw/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

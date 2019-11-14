@@ -1,0 +1,10 @@
+C:\Users\Student\Desktop\14.11.2019\funkcje6\funkcje6\bin\Debug\netcoreapp3.0\funkcje6.exe
+C:\Users\Student\Desktop\14.11.2019\funkcje6\funkcje6\bin\Debug\netcoreapp3.0\funkcje6.deps.json
+C:\Users\Student\Desktop\14.11.2019\funkcje6\funkcje6\bin\Debug\netcoreapp3.0\funkcje6.runtimeconfig.json
+C:\Users\Student\Desktop\14.11.2019\funkcje6\funkcje6\bin\Debug\netcoreapp3.0\funkcje6.runtimeconfig.dev.json
+C:\Users\Student\Desktop\14.11.2019\funkcje6\funkcje6\bin\Debug\netcoreapp3.0\funkcje6.dll
+C:\Users\Student\Desktop\14.11.2019\funkcje6\funkcje6\bin\Debug\netcoreapp3.0\funkcje6.pdb
+C:\Users\Student\Desktop\14.11.2019\funkcje6\funkcje6\obj\Debug\netcoreapp3.0\funkcje6.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\14.11.2019\funkcje6\funkcje6\obj\Debug\netcoreapp3.0\funkcje6.AssemblyInfo.cs
+C:\Users\Student\Desktop\14.11.2019\funkcje6\funkcje6\obj\Debug\netcoreapp3.0\funkcje6.dll
+C:\Users\Student\Desktop\14.11.2019\funkcje6\funkcje6\obj\Debug\netcoreapp3.0\funkcje6.pdb
