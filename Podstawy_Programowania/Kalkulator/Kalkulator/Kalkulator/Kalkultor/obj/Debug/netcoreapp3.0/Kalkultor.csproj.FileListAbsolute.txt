@@ -1,0 +1,11 @@
+D:\Programowanie\C#\Kalkulator\Kalkultor\Kalkultor\obj\Debug\netcoreapp3.0\Kalkultor.csprojAssemblyReference.cache
+D:\Programowanie\C#\Kalkulator\Kalkultor\Kalkultor\obj\Debug\netcoreapp3.0\Kalkultor.AssemblyInfoInputs.cache
+D:\Programowanie\C#\Kalkulator\Kalkultor\Kalkultor\obj\Debug\netcoreapp3.0\Kalkultor.AssemblyInfo.cs
+D:\Programowanie\C#\Kalkulator\Kalkultor\Kalkultor\bin\Debug\netcoreapp3.0\Kalkultor.exe
+D:\Programowanie\C#\Kalkulator\Kalkultor\Kalkultor\bin\Debug\netcoreapp3.0\Kalkultor.deps.json
+D:\Programowanie\C#\Kalkulator\Kalkultor\Kalkultor\bin\Debug\netcoreapp3.0\Kalkultor.runtimeconfig.json
+D:\Programowanie\C#\Kalkulator\Kalkultor\Kalkultor\bin\Debug\netcoreapp3.0\Kalkultor.runtimeconfig.dev.json
+D:\Programowanie\C#\Kalkulator\Kalkultor\Kalkultor\bin\Debug\netcoreapp3.0\Kalkultor.dll
+D:\Programowanie\C#\Kalkulator\Kalkultor\Kalkultor\bin\Debug\netcoreapp3.0\Kalkultor.pdb
+D:\Programowanie\C#\Kalkulator\Kalkultor\Kalkultor\obj\Debug\netcoreapp3.0\Kalkultor.dll
+D:\Programowanie\C#\Kalkulator\Kalkultor\Kalkultor\obj\Debug\netcoreapp3.0\Kalkultor.pdb
