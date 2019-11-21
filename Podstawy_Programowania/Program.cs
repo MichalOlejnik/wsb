@@ -1,163 +1,294 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace _2_instukcjeWarunkowe
+namespace Kolokwium
 {
     class Program
     {
         static void Main(string[] args)
         {
-            /*
-            int x = -5;
+            Console.WriteLine("WSB - kolokwium nr 1, Michał Olejnik");
 
-            if (x > 3)
+
+            //prostokąt
+            uint bok1=0;
+            while (true)
             {
-                Console.WriteLine("prawda");
-            }
+                Console.ForegroundColor = ConsoleColor.White;
+                Console.WriteLine("\nPodaj długość pierwszego boku prostokąta:");
+                string a1 = Console.ReadLine();
+                Console.ForegroundColor = ConsoleColor.Red;
 
-            else if (x==-5)
-            {
-                Console.WriteLine("x równy -5");
-            }
-
-            else
-            {
-                Console.WriteLine("inna");
-            }
-
-            Console.ReadKey();
-            */
-
-
-            /*ZADANIE: oblicz pole trójkąta-->
-
-            Console.Write("Podaj podstawę trójkąta");
-            string podstawa= Console.ReadLine();
-            Console.Write("Podaj wysokość trójkąta");
-            string wysokosc = Console.ReadLine();
-            //double x1 = double.Parse();
-
-            double podstawa1, wysokosc1, pole;
-
-
-            if (double.TryParse(podstawa, out podstawa1) && (double.TryParse(wysokosc, out wysokosc1)))    //zabezpieczenie przed podaniem błędnych danych, no tekstu
-
-            {
-                //obliczenie pola trójkąta
-               
-                pole= 0.5 * podstawa1 * wysokosc1;
-                Console.WriteLine("\nDługość podstawy: {0}, wysokość: {1}", podstawa1, wysokosc1);
-                Console.WriteLine("Pole trójkąta wynosi: {0}", pole); //lub "Pole trojkąta wynosi:" + pole +...
-            }
-
-            else
-            {
-                Console.WriteLine("Error! Błędne dane");
-            }
-            */
-
-
-            //SWITCH
-
-            /*
-
-            Console.WriteLine("1 - pole kwadratu\n2 - pole koła");
-            Console.Write("\nPodaj wartość:");
-
-            string x;
-            double kolo, kwadrat;
-
-            x = Console.ReadLine();
-            switch (x)
-            {
-                case "2":
-                    Console.WriteLine("1");
-
-                    Console.Write("Podaj promień koła: ");
-                    string promien = Console.ReadLine();
-                    double promien1;
-                    if (double.TryParse(promien, out promien1))
-                    {
-
-                        kolo = Math.PI * promien1 * promien1;
-                      Console.WriteLine("\nPromien: {0}" , promien1);
-                        Console.WriteLine("Pole kola wynosi: {0}", kolo);
-                    }
-                    else
-                    {
-                        Console.WriteLine("podałeś błędne dane");
-                     
-                    }
-                break;
-
-                case "1":
-                    Console.WriteLine("2");
-
-                    Console.WriteLine("Podaj długość boku kwadratu:");
-                    string bok= Console.ReadLine();
-                    double bok1;
-                    if (double.TryParse(bok, out bok1))
-                    {
-
-                        kwadrat = bok1 * bok1;
-                        Console.WriteLine("\nbok: {0}", bok1);
-                        Console.WriteLine("Pole kola wynosi: {0}", kwadrat);
-                    }
-
-                    else
-                    {
-                        Console.WriteLine("podałeś błędne dane");
-
-                    }
+                try
+                {
+                    bok1 = uint.Parse(a1);
                     break;
-            }
-            */
-
-            //ITERACJE FOR
-            
-            // wyświetl liczby z przedaziału <1;10>
-
-
-            for( int i = 1; i<=10; i++)
-            {
-                Console.Write("{0} ", i); //szybsza niż (i+ " " + i)     //"{0} = spacja między liczbami
-            }
-
-            // wyświetl liczby parzyste z przedaziału <5;20>
-
-            for (int i = 20; i >=5 ; i--)       //i++    i=i+1
-            {
-                if (i % 2 == 0)
+                }
+                catch (OverflowException)
                 {
-                    Console.Write("\n{0} ", i);
+                    Console.WriteLine("Podana wartość: {0}, nie mieści się w zakresie (0;~4200 000 000)", a1);
+                }
+                catch (FormatException)
+                {
+                    Console.WriteLine("Podana wartość: {0}, nie jest liczbą całkowitą", a1);
+                }
+                catch (ArgumentException)
+                {
+                    Console.WriteLine("Podana wartość (ctrl+z) = NULL");
                 }
             }
+            Console.ForegroundColor = ConsoleColor.Green;
+                Console.WriteLine("pierwszy bok: " + bok1);
+            Console.ForegroundColor = ConsoleColor.White;
 
-            //choinka  
-            Console.Write("Podaj wysokość choinki: ");
-            string ile=Console.ReadLine();
-            double ile1;
-            
 
-            if (double.TryParse(ile, out ile1))
+            uint bok2 = 0;
+            while (true)
             {
-              
-             
-               ile1 = Console.ReadLine();
-                for (int i = 0; i < ile1; i++)
+                Console.ForegroundColor = ConsoleColor.White;
+                Console.WriteLine("\nPodaj długość drugiego boku prostokąta:");
+                string a2 = Console.ReadLine();
+                Console.ForegroundColor = ConsoleColor.Red;
+                try
                 {
-                    Console.WriteLine("*");
+                    bok2 = uint.Parse(a2);
+                    break;
                 }
-                   // for (int j = 0; i < ile1; j++) ;
+                catch (OverflowException)
+                {
+                    Console.WriteLine("Podana wartość: {0}, nie mieści się w zakresie(0; ~4200 000 000)", a2);
+                }
+                catch (FormatException)
+                {
+                    Console.WriteLine("Podana wartość: {0}, nie jest liczbą całkowitą", a2);
+                }
+                catch (ArgumentException)
+                {
+                    Console.WriteLine("Podana wartość (ctrl+z) = NULL");
+                }
             }
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.WriteLine("drugi bok: " + bok2);
+            Console.ForegroundColor = ConsoleColor.White;
+            //wiek
+
+            uint wiek = 0;
+            while (true)
+            {
+                Console.ForegroundColor = ConsoleColor.White;
+                Console.WriteLine("\nPodaj wiek");
+                string w = Console.ReadLine();
+                Console.ForegroundColor = ConsoleColor.Red;
+
+                try
+                {
+                    wiek = uint.Parse(w);
+                    break;
+                }
+                catch (OverflowException)
+                {
+                    Console.WriteLine("Podana wartość: {0}, nie mieści się w zakresie (0;~4200 000 000)", w);
+                }
+                catch (FormatException)
+                {
+                    Console.WriteLine("Podana wartość: {0}, nie jest liczbą całkowitą", w);
+                }
+                catch (ArgumentException)
+                {
+                    Console.WriteLine("Podana wartość (ctrl+z) = NULL");
+                }
+            }
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.WriteLine("Wiek: " + wiek);
+            Console.ForegroundColor = ConsoleColor.White;
+
+            //Menu
+
+
+            Console.WriteLine("\n1. Pole prostokąta \n2. Wyświetl czy wiek jest liczbą parzystą \n3. Macierz \n4. Funkcja \n0. Wyjdź");
+            uint choice = 0;
+            while (true)
+            {
+                Console.ForegroundColor = ConsoleColor.White;
+                Console.WriteLine("Wybierz zadanie: ");
+                string c = Console.ReadLine();
+                Console.ForegroundColor = ConsoleColor.Red;
+
+                try
+                {
+                    choice = uint.Parse(c);
+                    break;
+                }
+                catch (OverflowException)
+                {
+                    Console.WriteLine("Podana wartość: {0}, nie jest liczbą całkowitą i nie znajduje się w zakresie możliwego wyboru ", c);
+                }
+                catch (FormatException)
+                {
+                    Console.WriteLine("Podana wartość: {0}, nie jest liczbą całkowitą", c);
+                }
+                catch (ArgumentException)
+                {
+                    Console.WriteLine("Podana wartość (ctrl+z) = NULL");
+                }
+            }
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.Write("Wybrane zadanie: {0}: ",choice);
+            Console.ForegroundColor = ConsoleColor.White;
+
+            switch (choice)
+            {
+                case 0:
+                    break;
+
+                case 1:
+                    Console.Write("Pole prostokąta");
+                    Console.Clear();
+                    uint pole = 0;
+                    pole = bok1 * bok2;
+                    Console.WriteLine("Bok a: {0}",bok1);
+                    Console.WriteLine("Bok b: {0}",bok2);
+                    Console.WriteLine("Pole prostokąta: {0}",pole);
+                    break;
+                
+                case 2:
+                    Console.WriteLine("Podany wiek:" +wiek);
+                    if (wiek % 2 == 0) { Console.WriteLine("parzysty"); }
+                    else { Console.WriteLine("nieparzysty"); }
+                    break;
+
+                case 3:
+                    
+                    uint stopien = 0;
+                    while (true)
+                    {
+                        Console.ForegroundColor = ConsoleColor.White;
+                        Console.WriteLine("Podaj stopień macierzy: ");
+                        
+                        string s = Console.ReadLine();
+                        Console.ForegroundColor = ConsoleColor.Red;
+                        try
+                        {
+                            stopien = uint.Parse(s);
+                            break;
+                        }
+                        catch (OverflowException)
+                        {
+                            Console.WriteLine("Podana wartość: {0}, nie mieści się w zakresie(0; ~4200 000 000)", s);
+                        }
+                        catch (FormatException)
+                        {
+                            Console.WriteLine("Podana wartość: {0}, nie jest liczbą całkowitą", s);
+                        }
+                        catch (ArgumentException)
+                        {
+                            Console.WriteLine("Podana wartość (ctrl+z) = NULL");
+                        }
+                    }
+                    Console.ForegroundColor = ConsoleColor.Green;
+                    Console.WriteLine("stopień macierzy: " + stopien);
+                    Console.ForegroundColor = ConsoleColor.White;
+                    uint macierz = 0;
+                    macierz = stopien * stopien;
+
+                    string[] Tab = new string[macierz];
+                    
+
+                    for(int i=0; i<=macierz-1; i++)
+                    {
+                        if(i%stopien ==0 || i == 1)
+                        {
+                            Tab[i] = "WSB";
+                        }
+                        
+                        
+                    }
+
+
+                    break;
+
+                case 4:
+                    Show();
+                    break;
+
+            }
+           
+        }
+
+
+        public static void Show()
+        {
+            uint ilosc = 0;
+            while (true)
+            {
+                Console.ForegroundColor = ConsoleColor.White;
+                Console.WriteLine("\nPodaj ilosc osob:");
+                string il = Console.ReadLine();
+                Console.ForegroundColor = ConsoleColor.Red;
+
+                try
+                {
+                    ilosc = uint.Parse(il);
+                    break;
+                }
+                catch (OverflowException)
+                {
+                    Console.WriteLine("Podana wartość: {0}, nie mieści się w zakresie (0;~4200 000 000)", il);
+                }
+                catch (FormatException)
+                {
+                    Console.WriteLine("Podana wartość: {0}, nie jest liczbą całkowitą", il);
+                }
+                catch (ArgumentException)
+                {
+                    Console.WriteLine("Podana wartość (ctrl+z) = NULL");
+                }
+            }
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.WriteLine("ilosc: " + ilosc);
+            Console.ForegroundColor = ConsoleColor.White;
+
+
+            uint wiek = 0;
+            while (true)
+            {
+                Console.ForegroundColor = ConsoleColor.White;
+                Console.WriteLine("\nPodaj wiek osoby:");
+                string age = Console.ReadLine();
+                Console.ForegroundColor = ConsoleColor.Red;
+
+                try
+                {
+                    wiek = uint.Parse(age);
+                    break;
+                }
+                catch (OverflowException)
+                {
+                    Console.WriteLine("Podana wartość: {0}, nie mieści się w zakresie (0;~4200 000 000)", age);
+                }
+                catch (FormatException)
+                {
+                    Console.WriteLine("Podana wartość: {0}, nie jest liczbą całkowitą", age);
+                }
+                catch (ArgumentException)
+                {
+                    Console.WriteLine("Podana wartość (ctrl+z) = NULL");
+                }
+            }
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.WriteLine("ilosc: " + wiek);
+            Console.ForegroundColor = ConsoleColor.White;
+
+            string imie;
+            while (true)
+            {
+                Console.WriteLine("\nPodaj imie osoby:");
+                imie = Console.ReadLine();
+                Console.ForegroundColor = ConsoleColor.Green;
+                Console.WriteLine("Imię: "+imie);
+                Console.ForegroundColor = ConsoleColor.White;
+            } 
 
             
-
-            Console.ReadKey();
-
         }
     }
 }
