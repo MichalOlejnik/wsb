@@ -1,0 +1,11 @@
+C:\Users\Student\Desktop\Struktury_28_11\struktury_1\struktury_1\bin\Debug\netcoreapp3.0\struktury_1.exe
+C:\Users\Student\Desktop\Struktury_28_11\struktury_1\struktury_1\bin\Debug\netcoreapp3.0\struktury_1.deps.json
+C:\Users\Student\Desktop\Struktury_28_11\struktury_1\struktury_1\bin\Debug\netcoreapp3.0\struktury_1.runtimeconfig.json
+C:\Users\Student\Desktop\Struktury_28_11\struktury_1\struktury_1\bin\Debug\netcoreapp3.0\struktury_1.runtimeconfig.dev.json
+C:\Users\Student\Desktop\Struktury_28_11\struktury_1\struktury_1\bin\Debug\netcoreapp3.0\struktury_1.dll
+C:\Users\Student\Desktop\Struktury_28_11\struktury_1\struktury_1\bin\Debug\netcoreapp3.0\struktury_1.pdb
+C:\Users\Student\Desktop\Struktury_28_11\struktury_1\struktury_1\obj\Debug\netcoreapp3.0\struktury_1.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\Struktury_28_11\struktury_1\struktury_1\obj\Debug\netcoreapp3.0\struktury_1.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Struktury_28_11\struktury_1\struktury_1\obj\Debug\netcoreapp3.0\struktury_1.AssemblyInfo.cs
+C:\Users\Student\Desktop\Struktury_28_11\struktury_1\struktury_1\obj\Debug\netcoreapp3.0\struktury_1.dll
+C:\Users\Student\Desktop\Struktury_28_11\struktury_1\struktury_1\obj\Debug\netcoreapp3.0\struktury_1.pdb
