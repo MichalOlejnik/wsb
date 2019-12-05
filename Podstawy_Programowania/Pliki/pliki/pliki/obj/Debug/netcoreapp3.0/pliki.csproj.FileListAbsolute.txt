@@ -1,0 +1,11 @@
+C:\Users\Student\Desktop\Pliki\pliki\pliki\bin\Debug\netcoreapp3.0\pliki.exe
+C:\Users\Student\Desktop\Pliki\pliki\pliki\bin\Debug\netcoreapp3.0\pliki.deps.json
+C:\Users\Student\Desktop\Pliki\pliki\pliki\bin\Debug\netcoreapp3.0\pliki.runtimeconfig.json
+C:\Users\Student\Desktop\Pliki\pliki\pliki\bin\Debug\netcoreapp3.0\pliki.runtimeconfig.dev.json
+C:\Users\Student\Desktop\Pliki\pliki\pliki\bin\Debug\netcoreapp3.0\pliki.dll
+C:\Users\Student\Desktop\Pliki\pliki\pliki\bin\Debug\netcoreapp3.0\pliki.pdb
+C:\Users\Student\Desktop\Pliki\pliki\pliki\obj\Debug\netcoreapp3.0\pliki.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\Pliki\pliki\pliki\obj\Debug\netcoreapp3.0\pliki.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\Pliki\pliki\pliki\obj\Debug\netcoreapp3.0\pliki.AssemblyInfo.cs
+C:\Users\Student\Desktop\Pliki\pliki\pliki\obj\Debug\netcoreapp3.0\pliki.dll
+C:\Users\Student\Desktop\Pliki\pliki\pliki\obj\Debug\netcoreapp3.0\pliki.pdb
