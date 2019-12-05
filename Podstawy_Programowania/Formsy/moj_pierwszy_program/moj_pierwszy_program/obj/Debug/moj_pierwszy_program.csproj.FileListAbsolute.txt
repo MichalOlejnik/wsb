@@ -1,0 +1,9 @@
+C:\Users\Student\Desktop\Formsy\moj_pierwszy_program\moj_pierwszy_program\obj\Debug\moj_pierwszy_program.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\Formsy\moj_pierwszy_program\moj_pierwszy_program\obj\Debug\moj_pierwszy_program.Form1.resources
+C:\Users\Student\Desktop\Formsy\moj_pierwszy_program\moj_pierwszy_program\obj\Debug\moj_pierwszy_program.Properties.Resources.resources
+C:\Users\Student\Desktop\Formsy\moj_pierwszy_program\moj_pierwszy_program\obj\Debug\moj_pierwszy_program.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\Formsy\moj_pierwszy_program\moj_pierwszy_program\bin\Debug\moj_pierwszy_program.exe.config
+C:\Users\Student\Desktop\Formsy\moj_pierwszy_program\moj_pierwszy_program\bin\Debug\moj_pierwszy_program.exe
+C:\Users\Student\Desktop\Formsy\moj_pierwszy_program\moj_pierwszy_program\bin\Debug\moj_pierwszy_program.pdb
+C:\Users\Student\Desktop\Formsy\moj_pierwszy_program\moj_pierwszy_program\obj\Debug\moj_pierwszy_program.exe
+C:\Users\Student\Desktop\Formsy\moj_pierwszy_program\moj_pierwszy_program\obj\Debug\moj_pierwszy_program.pdb
