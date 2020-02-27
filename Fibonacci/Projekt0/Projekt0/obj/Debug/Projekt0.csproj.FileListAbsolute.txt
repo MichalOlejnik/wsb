@@ -1,0 +1,6 @@
+C:\Users\Student\Desktop\Fibonacci\Projekt0\Projekt0\bin\Debug\Projekt0.exe.config
+C:\Users\Student\Desktop\Fibonacci\Projekt0\Projekt0\bin\Debug\Projekt0.exe
+C:\Users\Student\Desktop\Fibonacci\Projekt0\Projekt0\bin\Debug\Projekt0.pdb
+C:\Users\Student\Desktop\Fibonacci\Projekt0\Projekt0\obj\Debug\Projekt0.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\Fibonacci\Projekt0\Projekt0\obj\Debug\Projekt0.exe
+C:\Users\Student\Desktop\Fibonacci\Projekt0\Projekt0\obj\Debug\Projekt0.pdb
